@@ -1,4 +1,5 @@
 #include "lists.h"
+
 void print_dlistint(const dlistint_t *h)
 {
     while (h)
